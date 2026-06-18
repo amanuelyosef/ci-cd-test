@@ -26,8 +26,3 @@ CI behavior
 
 The GitHub Actions workflow runs on pushes and pull requests to `main` and `master`, installs dependencies with `npm ci`, and runs the Jest tests in CI mode.
 
-Contributing
-- Open a PR with a clear description and tests for any changes.
-
-License
-- MIT
